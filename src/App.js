@@ -30,7 +30,7 @@ function App() {
       <Routes>
         {/* الصفحة الرئيسية */}
         <Route 
-          path="/Movies" 
+          path="/" 
           element={
             <>
             <HeroHome/>
